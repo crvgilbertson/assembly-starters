@@ -1,6 +1,5 @@
 /*
- * A small program that illustrates how to call the minofthree function we wrote in
- * assembly language.
+ * A small program that calls the assembly function in the adjacent file
  */
 
 #include <stdio.h>
